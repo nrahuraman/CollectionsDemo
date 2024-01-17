@@ -21,6 +21,9 @@ public class LinkedListExample {
 		
 		fruits.addFirst("Strawberry");
 		System.out.println("After adding Strawberry"+fruits);
+		
+		fruits.addLast("Orange");
+		System.out.println("After adding organe"+fruits);
 	}
 
 }
